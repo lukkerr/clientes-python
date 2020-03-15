@@ -11,7 +11,7 @@
       <a href="pesquisar.py">Pesquisar</a>
       <a href="cadastrar.py">Cadastrar</a>
       <a href="editar.py">Editar</a>
-      <a href="excluir.py">Excluit</a>
+      <a href="excluir.py">Excluir</a>
       <a href="listar.py">Listar</a>
       <p></p>
       <h4>Funções Gerais</h4>
